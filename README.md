@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hey Im Abhishek :wave: 
 
-<!--
-**Abhi-she-k/Abhi-she-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Education :mortar_board::
 
-Here are some ideas to get you started:
+   - Bsc Computer Science at Toronto Metropolitian University 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Languages :computer::
+
+   - Python
+   - Java
+   - C#
+   - JavaScript
+
+  Favourite Artist :musical_score::
+
+   - Kanye West
+   - Tyler the Creator
+   - Playboi Carti
+
+
+
+
+  :point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:       
+           
+  [Find More About Me Here :grinning:](http://abhishek-paul123.s3-website.us-east-2.amazonaws.com/)
