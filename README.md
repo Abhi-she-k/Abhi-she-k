@@ -13,8 +13,8 @@
 
   Favourite Artist :musical_score::
 
+   - ASAP Rocky
    - Kanye West
-   - Tyler the Creator
    - Playboi Carti
 
 
