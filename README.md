@@ -2,7 +2,7 @@
 
   Education :mortar_board::
 
-   - Currently getting a Bsc in Computer Science at Toronto Metropolitian University 
+   - Currently pursuing a Bsc in Computer Science at Toronto Metropolitian University 
 
   Languages :computer::
 
