@@ -8,8 +8,11 @@
   
    - Python
    - Java
-   - C#
    - JavaScript
+   - C#
+   - C
+   - Bash
+   - SQL
 
   Frameworks ⚙:
   
